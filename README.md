@@ -40,6 +40,8 @@ The Ridge model's test R2 is .9286, which we interpret to mean that 92.86% of th
 
 Ther Ridge model's test RMSE score is 21873.74, which means that the model predicts an approximate level of accuracy that is  + or - \$21,873 of the true sale price value.
 
+# ![](./plots/ridge-final.png)
+
 I believe that my model can be used to infer coefficient variables such as square footage, overall quality, number of bedrooms, number of bathrooms and garage car size.
 
 I believe my model will generalize well to new data, because the train and test R2 scores are within a close range of 0.002.  The implication is that my model is well fit.
