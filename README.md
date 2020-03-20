@@ -14,7 +14,7 @@ Here is a link to a [complete data dictionary](http://jse.amstat.org/v19n3/decoc
 
 In addition, I have created my own data dictionary based on the X variables I considered using for my model.  The variables are listed in descending order according to their correlation to saleprice values.
 
-#### ![dict|916 × 1084,70%](./assets/data-dict-corr.png)
+<img src="./assets/data-dict-corr.png" width ="600">
 
 ## Contents
 
